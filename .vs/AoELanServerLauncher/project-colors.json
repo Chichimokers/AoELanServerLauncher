@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "17cde134-041e-4dec-82a6-bee8cf2d55fc": {
+      "ProjectGuid": "17cde134-041e-4dec-82a6-bee8cf2d55fc",
+      "DisplayName": "AoELanServerLauncher",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

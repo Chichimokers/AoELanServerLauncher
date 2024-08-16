@@ -1,0 +1,14 @@
+D:\Proyectos\AoELanServerLauncher\AoELanServerLauncher\AoELanServerLauncher\bin\Debug\AoELanServerLauncher.exe.config
+D:\Proyectos\AoELanServerLauncher\AoELanServerLauncher\AoELanServerLauncher\bin\Debug\AoELanServerLauncher.exe
+D:\Proyectos\AoELanServerLauncher\AoELanServerLauncher\AoELanServerLauncher\bin\Debug\AoELanServerLauncher.pdb
+D:\Proyectos\AoELanServerLauncher\AoELanServerLauncher\AoELanServerLauncher\obj\Debug\AoELanServerLauncher.csproj.AssemblyReference.cache
+D:\Proyectos\AoELanServerLauncher\AoELanServerLauncher\AoELanServerLauncher\obj\Debug\AoELanServerLauncher.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\AoELanServerLauncher\AoELanServerLauncher\AoELanServerLauncher\obj\Debug\AoELanServerLauncher.Form1.resources
+D:\Proyectos\AoELanServerLauncher\AoELanServerLauncher\AoELanServerLauncher\obj\Debug\AoELanServerLauncher.Properties.Resources.resources
+D:\Proyectos\AoELanServerLauncher\AoELanServerLauncher\AoELanServerLauncher\obj\Debug\AoELanServerLauncher.csproj.GenerateResource.cache
+D:\Proyectos\AoELanServerLauncher\AoELanServerLauncher\AoELanServerLauncher\obj\Debug\AoELanServerLauncher.csproj.CoreCompileInputs.cache
+D:\Proyectos\AoELanServerLauncher\AoELanServerLauncher\AoELanServerLauncher\obj\Debug\AoELanServerLauncher.exe
+D:\Proyectos\AoELanServerLauncher\AoELanServerLauncher\AoELanServerLauncher\obj\Debug\AoELanServerLauncher.pdb
+D:\Juegos\AoE2DE\AoELanServerLauncher.exe.config
+D:\Juegos\AoE2DE\AoELanServerLauncher.exe
+D:\Juegos\AoE2DE\AoELanServerLauncher.pdb
