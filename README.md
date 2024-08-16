@@ -1,6 +1,6 @@
 # Age of Empires 2 Definitive Edition LAN Launcher 🎮
 
-This document describes how to set up a launcher to play Age of Empires 2 Definitive Edition over a local area network (LAN) using the AOE LAN server. 
+This document describes how to set up a launcher to play Age of Empires 2 Definitive Edition over a local area network (LAN) using the AOE LAN server https://github.com/luskaner/aoe2DELanServer/. 
 
 ## Requirements ✅
 
