@@ -14,9 +14,9 @@ This document describes how to set up a launcher to play Age of Empires 2 Defini
 
 ## Steps to Set Up the Launcher ⚙️
 
-1. **Necessary Files**: Make sure to have `AoELanServerLauncher` and `aoe2DELanServer_1.2.2_win_x86-64` in the same folder.
+1. **Necessary Files**: Make sure to have `AoELanServerLauncher.exe` and `aoe2DELanServer_1.2.2_win_x86-64` in the same folder.
 
-2. **Run the Server**: Open `aoe2DELanServer` and select "Host" if you want to host the server.
+2. **Run the Server**: Open `AoELanServerLauncher.exe` and select "Host" if you want to host the server.
 
 3. **Client Connection**: The client should connect to your IP, and voilà! 🎉
 
