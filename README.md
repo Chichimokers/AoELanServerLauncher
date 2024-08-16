@@ -26,6 +26,6 @@ This document describes how to set up a launcher to play Age of Empires 2 Defini
   
 - If you experience connection issues, check that all devices are on the same local network.
 
-- To invite friends, look for their names and send an invitation, or share the room ID for them to join directly.
+- To invite friends, share your ip 
 
 Enjoy your Age of Empires 2 LAN games! 🏰
