@@ -12,3 +12,5 @@ D:\Proyectos\AoELanServerLauncher\AoELanServerLauncher\AoELanServerLauncher\obj\
 D:\Juegos\AoE2DE\AoELanServerLauncher.exe.config
 D:\Juegos\AoE2DE\AoELanServerLauncher.exe
 D:\Juegos\AoE2DE\AoELanServerLauncher.pdb
+D:\Juegos\AoE2DE\EasyHook32.dll
+D:\Juegos\AoE2DE\EasyLoad32.dll

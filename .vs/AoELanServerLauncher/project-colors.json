@@ -5,7 +5,22 @@
       "ProjectGuid": "17cde134-041e-4dec-82a6-bee8cf2d55fc",
       "DisplayName": "AoELanServerLauncher",
       "ColorIndex": 0
+    },
+    "e70ec873-d2dd-4c48-864e-949948c299db": {
+      "ProjectGuid": "e70ec873-d2dd-4c48-864e-949948c299db",
+      "DisplayName": "HookWininet",
+      "ColorIndex": 1
+    },
+    "9a2c26e5-4336-4bae-af48-1c1b14523278": {
+      "ProjectGuid": "9a2c26e5-4336-4bae-af48-1c1b14523278",
+      "DisplayName": "TestWininet",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "File esterni",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
