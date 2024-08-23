@@ -5,6 +5,8 @@ This document describes how to set up a launcher to play Age of Empires 2 Defini
 ## Requirements ✅
 
 - **Updated Version**: You must have the updated Steam version of Age of Empires 2 Definitive Edition.
+
+- **Cracked Game**: Here in the release we have the crack for the game always use this if not the game doesnt work
   
 - **Compatibility**: Only compatible with Age of Empires 2 Definitive Edition that uses the battle server.
 
