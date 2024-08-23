@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Net.NetworkInformation;
+
+using System.Diagnostics;
 namespace AoELanServerLauncher
 {
     public partial class Form1 : Form
@@ -19,9 +21,10 @@ namespace AoELanServerLauncher
             
             InitializeComponent();
         }
+     
         void LoadIPS()
         {
-            
+        
             string ips = "";
             var networkInterfaces = NetworkInterface.GetAllNetworkInterfaces();
             foreach(var a in networkInterfaces)
