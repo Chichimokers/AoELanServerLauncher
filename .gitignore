@@ -4,3 +4,6 @@
 **/obj/
 .vs
 vs
+*/Debug/
+*/Release/
+*/obj/
