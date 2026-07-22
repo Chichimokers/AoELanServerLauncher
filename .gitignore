@@ -4,3 +4,5 @@
 **/obj/
 .vs
 vs
+config.bat
+node_modules
